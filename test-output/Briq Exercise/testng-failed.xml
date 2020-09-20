@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Briq Exercise]">
+  <test name="Conversion Test(failed)">
+    <classes>
+      <class name="com.briq.exercise.TC03_ConvertPDF2Excel">
+        <methods>
+          <include name="Json2ExcelConvertion"/>
+        </methods>
+      </class> <!-- com.briq.exercise.TC03_ConvertPDF2Excel -->
+    </classes>
+  </test> <!-- Conversion Test(failed) -->
+</suite> <!-- Failed suite [Briq Exercise] -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Briq Exercise">
+        
+	<test name="Conversion Test">
+		<classes>
+			<class name="com.briq.exercise.TC01_ConvertJSON2Excel" />
+			<class name="com.briq.exercise.TC02_ConvertExcel2JSON" />
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> 
