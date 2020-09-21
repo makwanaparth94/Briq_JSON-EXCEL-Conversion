@@ -2,7 +2,6 @@
 ## Table of contents
 * [Project info](#project-info)
 * [Folder Structure](#folder-structure)
-* [Required Key Points before Execution](#required-key-points-before-execution)
 * [Setup](#setup)
 
 ## Project info
